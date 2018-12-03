@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "jest-cli": "^23.6.0"
+  },
+  "name": "katas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dru1208/katas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dru1208/katas/issues"
+  },
+  "homepage": "https://github.com/dru1208/katas#readme",
+  "description": ""
 }

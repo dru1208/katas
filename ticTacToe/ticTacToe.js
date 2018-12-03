@@ -37,3 +37,7 @@ const checkGrid = () => {
 }
 
 console.log(checkWin([0,0,0]))
+
+module.exports = {
+	checkWin: checkWin,
+}
